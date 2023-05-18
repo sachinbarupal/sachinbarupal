@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinbarupal
 - 👀 I’m interested in learning and coding.
-- 🌱 I’m currently learning cpp.
+- 🌱 I’m a Competitive Programmer.
 - 💞️ I’m looking to collaborate on intersting projects with good mates.
 - 📫 mail me at sachinbarupal@gmail.com
 
