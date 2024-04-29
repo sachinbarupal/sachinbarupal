@@ -1,6 +1,6 @@
 # Hello There 👋, I am Sachin Barupal
 
-### Software/DevOps/Platform Engineer
+### CP/DSA/Dev
 
 
 - 👨‍💻 I’m passionate about Competitive Programming...
