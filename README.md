@@ -14,10 +14,10 @@
 
 ### My Coding Profiles
 <p align="left">
-<a href="https://www.leetcode.com/sachinbarupal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachinbarupal" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/sachinbarupal" target="blank"><img align="center" src="https://codeforces.org/s/35349/images/codeforces-sponsored-by-ton.png" alt="sachinbarupal" height="40" width="auto" /></a>                         
-<a href="https://www.codechef.com/users/sachinbarupal" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="sachinbarupal" height="40" width="auto" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sachinbarupal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sachinbarupal" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/sachinbarupal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="auto" /></a>
+<a href="https://codeforces.com/profile/sachinbarupal" target="blank"><img align="center" src="https://codeforces.org/s/35349/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="40" width="auto" /></a>                         
+<a href="https://www.codechef.com/users/sachinbarupal" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" width="auto" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sachinbarupal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="auto" /></a>
 </p>
 
 
