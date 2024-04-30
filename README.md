@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbarupal&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbarupal" /> </p>
 
 - 👨‍💻 I’m passionate about Competitive Programming...
-- 🔭 I’m currently working on **My Problem Solving Sills**
+- 🔭 I’m currently working on **My Problem Solving Skills**
 - 🌱 I’m currently learning **Android Development in React Native**
 - 👯 I’m looking to collaborate on **Web and Android Projects**
 - 💬 Ask me about **DSA, CP, Software Dev/Eng...**
