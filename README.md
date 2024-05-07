@@ -25,6 +25,7 @@
 
 [![@sachinbarupal's Holopin badges](https://holopin.me/sachinbarupal)](https://holopin.io/@sachinbarupal)
 
+<!---
 ### My GitHub Stats
 
 <table>
@@ -46,7 +47,6 @@
     </tr>
 </table>
 
-<!---
 sachinbarupal/sachinbarupal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
